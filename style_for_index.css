@@ -8,7 +8,7 @@ body {
 	padding: .4rem;
 	position: absolute;
 	left: 50%;
-	top: 50%;
+	top: 80%;
 	transform: translateX(-50%) translateY(-50%);
 	border-radius: 3px;
   }
@@ -35,4 +35,16 @@ body {
 	background-color: #927608;
 	opacity: 0.4;
 	bottom: -30px;
+  }
+.center {
+	width: 70%;
+  margin-left: 50%;
+  margin-right: 50%;
+
+  }
+  .center1 {
+	  height: 10rem;
+  margin-left: 38%;
+  margin-right: 50;
+  max-width: 1140px;
   }
