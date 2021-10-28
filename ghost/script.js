@@ -211,19 +211,19 @@
     */
    render() {
      //Draw the body of the ghost
-     this.context.fillStyle = "#ffffff";
+     this.context.fillStyle = "#860043";
      this.context.beginPath();
      this.context.arc(this.position.getX(), this.position.getY(), this.radius, 0, TWO_PI);
      this.context.fill();
  
      //Draw the left hand of the ghost
-     this.context.fillStyle = "#ffffff";
+     this.context.fillStyle = "#a60230";
      this.context.beginPath();
      this.context.arc(this.handPosition.getX() - this.radius + 5, this.handPosition.getY() + 10, 10, 0, TWO_PI);
      this.context.fill();
  
      //Draw the right hand of the ghost
-     this.context.fillStyle = "#ffffff";
+     this.context.fillStyle = "#a60230";
      this.context.beginPath();
      this.context.arc(this.handPosition.getX() + this.radius - 5, this.handPosition.getY() + 10, 10, 0, TWO_PI);
      this.context.fill();
@@ -271,7 +271,7 @@
     */
    render(context) {
      //Draw the iris of the eye
-     context.fillStyle = "#000000";
+     context.fillStyle = "#FF5A7A";
      context.beginPath();
      context.arc(this.irisPosition.getX(), this.irisPosition.getY(), this.sizeRadius, 0, TWO_PI);
      context.fill();
