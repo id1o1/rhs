@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:700");
-.hero {
+html, body {
   background-image: url("../img/in.jpg");
     width: 100%;
     height: auto;
