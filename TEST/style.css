@@ -1,0 +1,12 @@
+html, body{
+    margin:0;
+    padding:0;
+    background-color:hsl(195, 100%, 7%);
+    margin:0 auto;
+    display:block;
+}
+
+#canvas{
+    margin:0 auto;
+    display:block;
+}
