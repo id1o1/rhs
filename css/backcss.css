@@ -1,5 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Sofia");
-@import url("https://fonts.googleapis.com/css?family=Sofia");
+@font-face {
+  font-family: Sofia;
+  src: url(../font/Sofia-Regular.ttf);
+}
 
 html {
     height: 100%;
@@ -65,5 +67,60 @@ h1 {
 #para3 {
     font-family: "Sofia", sans-serif;
     font-size: px;
-    text-shadow: 3px 3px 3px #9ac4fb;
+    text-shadow: 3px 3px 3px #fb9ab7;
+}
+
+.button {
+  background-color: #fbc2c2;
+  border-radius: 100px;
+  box-shadow: rgba(187, 44, 44, 0.2) 0 -25px 18px -14px inset,rgba(170, 44, 187, 0.15) 0 1px 2px,rgba(154, 44, 187, 0.15) 0 2px 4px,rgba(170, 44, 187, 0.15) 0 4px 8px,rgba(158, 44, 187, 0.15) 0 8px 16px,rgba(187, 44, 168, 0.15) 0 16px 32px;
+  color: rgb(128, 0, 0);
+  cursor: pointer;
+  display: inline-block;
+  font-family: Sofia,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 1.2rem 3rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  loat: left;
+  
+  margin-left: 10%;
+
+}
+
+.button:hover {
+  box-shadow: rgba(187, 44, 44, 0.35) 0 -25px 18px -14px inset,rgba(187, 44, 44, 0.25) 0 1px 2px,rgba(187, 44, 44, 0.25) 0 2px 4px,rgba(187, 44, 44, 0.25) 0 4px 8px,rgba(187, 44, 111, 0.25) 0 8px 16px,rgba(187, 44, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+/* CSS */
+.button1 {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Sofia,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 1.2rem 3rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  loat: left;
+ 
+
+}
+
+.button1:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
 }
