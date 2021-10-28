@@ -9,12 +9,12 @@
 }
 
 .hero__title {
-  color: #fff;
+  color: rgb(42, 243, 102);
   position: absolute;
-  top: 50%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 50px;
+  font-size: 25px;
   z-index: 1;
 }
 
