@@ -1,6 +1,7 @@
 /**
  * Constants
  */
+ window.alert("Ghosts need some privacy");
  const TWO_PI = Math.PI * 2;
 
  /**
