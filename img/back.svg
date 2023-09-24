@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome</title>
-  <link rel="stylesheet" href="css/style_for_index.css">
-  <script src="./js/button.js"></script>
-  <script src="./js/button.js"></script>
-
-</head>
-<body>
-  <div class="hero">
-    <div class="cube"></div>
-    <div class="cube"></div>
-    <div class="cube"></div>
-    <div class="cube"></div>
-    <div class="cube"></div>
-    <div class="cube"></div>
-    <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Roboto:400">
-    <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Roboto:400">
-  </div>
-
-  
-  <div class="center1">
-    <div  style="position: absolute; ">
-    
-     <div style="position: absolute;">
-    <a href="ghost/index.html"><img class=mImage600  src="img/1000x1000.png" height="200px" alt="1000x1000"></a>
-  </div>
-    </div>
-  </div>
-
-  <div class="center2" style="position: absolute;">
-    
-    <script src="https://tryhackme.com/badge/533634" class="center1"></script>
-  </div>
- 
-<div>
-    <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="780.000000pt" height="578.000000pt" viewbox="0 0 2700 2100" preserveaspectratio="xMidYMid meet">
+  <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="780.000000pt" height="578.000000pt" viewbox="0 0 2700 2100" preserveaspectratio="xMidYMid meet">
  <metadata>
       Created by potrace 1.15, written by Peter Selinger 2001-2017
     </metadata>
@@ -336,9 +298,3 @@
       <path d="M7490 494 c-217 -51 -396 -94 -397 -94 -2 0 -3 -42 -3 -94 0 -82 2 -95 18 -100 24 -7 800 -186 806 -186 3 0 6 33 6 73 l0 73 -102 20 -103 19 -3 96 -3 96 88 17 c134 26 123 17 123 102 0 64 -2 74 -17 73 -10 -1 -196 -43 -413 -95z m90 -192 l0 -69 -157 30 c-87 16 -165 32 -173 34 -12 4 269 67 318 72 8 1 12 -19 12 -67z"></path>
       <path d="M8429 297 c-19 -12 -48 -47 -66 -77 -53 -92 -71 -110 -108 -110 -39 0 -58 19 -53 57 2 20 12 32 35 43 29 13 33 19 33 58 0 36 -3 42 -21 42 -33 0 -86 -29 -104 -57 -26 -39 -30 -121 -8 -162 29 -55 65 -75 129 -75 80 2 92 12 191 168 23 38 64 52 103 36 55 -23 52 -92 -5 -116 -33 -13 -35 -17 -35 -59 0 -34 4 -45 15 -45 31 0 82 28 108 59 23 28 27 41 27 98 0 78 -22 122 -74 147 -51 24 -126 21 -167 -7z"></path>
     </g></svg>
-</div>
-
- 
-</div>
-</body>
-</html>
